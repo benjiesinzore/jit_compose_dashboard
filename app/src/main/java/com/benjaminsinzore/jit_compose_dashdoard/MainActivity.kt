@@ -269,6 +269,7 @@ class MainActivity : ComponentActivity() {
     @Composable
     fun ShowBalance(
 
+
         painter: Painter,
         contentDescription: String,
         title: String,
